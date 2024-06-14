@@ -1,0 +1,3 @@
+/Users/Asus/seminar3/extra3new/cmake-build-debug/CMakeFiles/extra3new.dir
+/Users/Asus/seminar3/extra3new/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Asus/seminar3/extra3new/cmake-build-debug/CMakeFiles/rebuild_cache.dir
